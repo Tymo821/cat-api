@@ -1,0 +1,33 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 9px;
+  background-color: aqua;
+}
+
+
+button {
+  padding: 10px;
+  border-radius: 20px;
+  background-color:red;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 300px;
+  align-items: center;
+  border: 10px;
+} 
+h1 {
+  font: bolder;
+  color: darkblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  align-items: center;
+} 
+
+img {
+  max-width: 800px;
+}
